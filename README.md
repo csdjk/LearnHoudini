@@ -1,2 +1,0 @@
-# LearnHoudini
-Learn Houdini！
