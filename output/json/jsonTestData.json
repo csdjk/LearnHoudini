@@ -1,8 +1,8 @@
 {
-    "colorb": 0.0, 
+    "colorb": 1.0, 
     "colorg": 1.0, 
-    "colorr": 0.0, 
-    "particle_scale": 0.2, 
-    "particlesep": 2.0, 
+    "colorr": 1.0, 
+    "particle_scale": 0.31, 
+    "particlesep": 1.5, 
     "type": 1
 }
